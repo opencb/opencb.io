@@ -11,14 +11,12 @@
 
 ## Data Models
 
----
+* [Variant](data-models/variant/README.md)
+  * [Variant Data Model](data-models/variant/variant-data-model.md)
 
-* [Variant](variant/README.md)
-  * [Variant Data Model](variant/variant-data-model.md)
+## About
 
-## About <a id="about-1"></a>
-
-* [Release Notes](about-1/untitled-1.md)
-* [Contributors](about-1/contributors.md)
-* [FAQ](about-1/faq.md)
+* [Release Notes](about/untitled-1.md)
+* [Contributors](about/contributors.md)
+* [FAQ](about/faq.md)
 

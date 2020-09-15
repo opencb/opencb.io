@@ -6,8 +6,5 @@
 
 ## Former Contributors
 
-...
-...
-
-
+... ...
 
