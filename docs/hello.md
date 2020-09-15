@@ -1,10 +1,9 @@
 # Hello Demo!
 
-s
 
-START INCLUDE
+START INCLUDE - 2
 
-{% include "./news.md" %}
+{% include "news.md" %}
 
 END INCLUDE
 
