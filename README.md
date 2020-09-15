@@ -1,5 +1,5 @@
 ---
-description: Your Genomic Data Analysis Suite
+description: Your Genomic Data Analysis Suite!
 ---
 
 # Overview
