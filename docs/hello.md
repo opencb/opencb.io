@@ -3,4 +3,6 @@
 s
 
 
+{% include "./news.md" %}
+
 @author: Jacobo 
